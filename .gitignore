@@ -1,0 +1,6 @@
+# Remove building folders
+bin/
+obj/
+
+# Remove google infos
+credentials.json
